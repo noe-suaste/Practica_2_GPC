@@ -1,0 +1,11 @@
+--2023-09-18 18:13:04--  https://images.unsplash.com/photo-1481349518771-20055b2a7b24?ixlib=rb-4.0.3
+Resolving images.unsplash.com (images.unsplash.com)... 199.232.34.208, 2a04:4e42:45::720
+Connecting to images.unsplash.com (images.unsplash.com)|199.232.34.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 297807 (291K) [image/jpeg]
+Saving to: ‘imagen_random.jpg’
+
+imagen_random.jpg       0%[                         ]       0  --.-KB/s               imagen_random.jpg     100%[========================>] 290.83K  --.-KB/s    in 0.03s   
+
+2023-09-18 18:13:04 (8.32 MB/s) - ‘imagen_random.jpg’ saved [297807/297807]
+
